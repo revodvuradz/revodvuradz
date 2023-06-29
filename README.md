@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+![header](Nino_Revo.png)
 
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DzakiYusuf) -->
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Muhammad Abdul Hafizh fathuddin</h1>
@@ -33,6 +33,5 @@
 
 
 
-![footer](Nino_Revo.png)
-
+![footer](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
