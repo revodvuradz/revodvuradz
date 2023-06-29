@@ -33,6 +33,6 @@
 
 
 
-![footer]([https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png](https://ibb.co/BGVtLdC)https://ibb.co/BGVtLdC)
+![footer](https://user-images.githubusercontent.com/Nino_Revo.png)
 
 
