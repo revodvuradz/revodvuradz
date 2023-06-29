@@ -33,6 +33,6 @@
 
 
 
-![footer](https://user-images.githubusercontent.com/Nino_Revo.png)
+![footer](Nino_Revo.png)
 
 
